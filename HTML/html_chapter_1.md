@@ -372,5 +372,3 @@ A page with:
 > 🎉 **Congratulations!** You've completed Chapter 1. You now understand how the web works and have created your first HTML page!
 
 ---
-
-**Type `next` to continue to Chapter 2: HTML Document Structure & Writing Clean Code** ➡️

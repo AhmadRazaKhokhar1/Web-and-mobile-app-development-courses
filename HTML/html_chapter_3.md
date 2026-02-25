@@ -830,5 +830,3 @@ Hello, welcome to my website. This is some text.
 > 🎉 **Congratulations!** You've completed Chapter 3. You now know how to write well-structured, meaningful text content using headings, paragraphs, line breaks, and horizontal rules!
 
 ---
-
-**Type `next` to continue to Chapter 4: Inline Elements, Formatting & Semantic Meaning** ➡️

@@ -929,5 +929,3 @@ Hello beautiful World
 > 🎉 **Congratulations!** You've completed Chapter 4. You now understand block vs inline elements, semantic vs non-semantic tags, and how to write meaningful, well-formatted HTML text content!
 
 ---
-
-**Type `next` to continue to Chapter 5: Lists, Links & Navigation** ➡️

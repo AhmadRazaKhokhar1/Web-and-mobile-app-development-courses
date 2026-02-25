@@ -707,5 +707,3 @@ In **VS Code**, you can generate the full HTML boilerplate instantly:
 > 🎉 **Congratulations!** You've completed Chapter 2. You now know how to build a properly structured, clean, and valid HTML document from scratch!
 
 ---
-
-**Type `next` to continue to Chapter 3: Text Content, Headings & Writing Readable Pages** ➡️

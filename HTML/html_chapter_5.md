@@ -1410,5 +1410,3 @@ my-website/
 > 🎉 **Congratulations!** You've completed Chapter 5. You now know how to organize content with lists, connect pages with links, and build real navigation menus for multi-page websites!
 
 ---
-
-**Type `next` to continue to Chapter 6: Images, Media & Content Grouping** ➡️
